@@ -2,25 +2,20 @@ html, body {
   margin: 1pt;
   border: 0;
   font-size: large;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: fantasy;
   font-weight: bold;
   font-style: normal;
-
   background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
-  color: #56e2f5;
+  color: #e0661f;
   
 }
 
-h1:any-link{
-  color: #ededf3;
-}
 
 a:link {
-  color: #ededf3;
+  color: #ffffff;
 }
 
-
 h2{
-  color:rgb(249, 249, 252)
+  color:rgb(138, 26, 26)
 }
 

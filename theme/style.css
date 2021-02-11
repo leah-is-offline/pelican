@@ -7,11 +7,11 @@ html, body {
   font-style: normal;
 
   background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
-  color: #44d6e9;
+  color: #56e2f5;
   
 }
 
-h1:link{
+h1:any-link{
   color: #ededf3;
 }
 

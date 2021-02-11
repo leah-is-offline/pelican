@@ -3,17 +3,17 @@ html, body {
   border: 0;
   font-size: large;
   font-family: 'Courier New', Courier, monospace;
-  font-style: oblique;
+  font-weight: bold;
+  font-style: normal;
+
   background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
-  color: #000000;
+  color: #44d6e9;
   
 }
 
-h1 {
-  color: rgb(253, 252, 252)
-}
+
 
 h2{
-  color:rgb(253, 251, 251)
+  color:rgb(35, 35, 112)
 }
 

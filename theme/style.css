@@ -1,18 +1,31 @@
 html, body {
   margin: 1pt;
   border: 0;
-  font-size: large;
-  font-family: fantasy;
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   font-style: normal;
   background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
-  color: #e0661f;
+  color: #cf6f38;
   
 }
 
 
 a:link {
   color: #ffffff;
+}
+
+a:active {
+  color: blue;
+}
+
+a[tabindex]:focus {
+  color:blue;
+  outline: none;
+}
+
+a:visited{
+  color: brown;
 }
 
 h2{

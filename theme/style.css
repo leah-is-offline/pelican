@@ -1,8 +1,8 @@
 html, body {
   margin: 1pt;
   border: 0;
-  font-size: larger;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  font-family:'Times New Roman', Times, serif;
   font-weight: bold;
   font-style: normal;
   background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
@@ -25,10 +25,12 @@ a[tabindex]:focus {
 }
 
 a:visited{
-  color: brown;
+  color: rgb(255, 255, 255);
 }
 
 h2{
   color:rgb(138, 26, 26)
 }
+
+.floatRight{ float:right; margin: left 20pt;}
 

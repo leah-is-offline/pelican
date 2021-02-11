@@ -1,7 +1,14 @@
 html, body {
-  margin: 0;
-  border: 0;
+  margin: 10pt;
+  border: 10pt;
   font-size: 100%;
-  background-image: url("https://media2.giphy.com/media/3o7btPp06ORdshxYjK/giphy.gif");
+  font-family: 'Courier New', Courier, monospace;
+  background-image: url("https://media3.giphy.com/media/9MJ65OWvrNIXnOiNEk/giphy.gif");
   color: #ffffff;
 }
+
+h1 {
+  color: green;
+}
+
+

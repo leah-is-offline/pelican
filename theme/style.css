@@ -3,9 +3,7 @@ html, body {
   border: 10pt;
   font-size: 100%;
   font-family: 'Courier New', Courier, monospace;
-  background-image: url("https://media0.giphy.com/media/j57Fbjv3UhShlQQrfA/200w.webp?cid=ecf05e47p6nhpp9n4hdw9dzxfoc0zpy6wyaj70mt61l0trds&rid=200w.webp"),url("https://media4.giphy.com/media/3o6EhKIVvdhTkvjT8s/200w.webp?cid=ecf05e470a2fpb0covl8tbsh236rdieut9jksmq897mzb5ld&rid=200w.webp");
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
+  background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
   color: #ffffff;
 }
 

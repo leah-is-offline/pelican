@@ -11,12 +11,16 @@ html, body {
   
 }
 
+h1:link{
+  color: #ededf3;
+}
+
 a:link {
   color: #ededf3;
 }
 
 
 h2{
-  color:rgb(35, 35, 112)
+  color:rgb(249, 249, 252)
 }
 

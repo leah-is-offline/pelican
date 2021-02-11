@@ -1,17 +1,18 @@
 html, body {
-  margin: 10pt;
-  border: 10pt;
+  margin: 5pt;
+  border: 0;
   font-size: 100%;
   font-family: 'Courier New', Courier, monospace;
   background-image: url("https://media0.giphy.com/media/8cv6gwoBAEIQjXagWt/200w.webp?cid=ecf05e47z2gengh3rcw1tb518mho4ytx8qqjvwzwyxbq15ih&rid=200w.webp");
   color: #ffffff;
+  
 }
 
 h1 {
-  color: green;
+  color: rgb(180, 30, 30)
 }
 
 h2{
-  color:aqua
+  color:rgb(206, 38, 38)
 }
 
